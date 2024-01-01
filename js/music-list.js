@@ -41,4 +41,22 @@ let allMusic = [
     img: "明天你好_牛奶咖啡",
     src: "明天你好_牛奶咖啡"
   },
+  {
+    name: "半岛铁盒",
+    artist: "周杰伦",
+    img: "半岛铁盒",
+    src: "半岛铁盒"
+  },
+  {
+    name: "超级风格",
+    artist: "SpeXial",
+    img: "超级风格",
+    src: "超级风格"
+  },
+  {
+    name: "鸭梨大",
+    artist: "至上励合",
+    img: "鸭梨大",
+    src: "鸭梨大"
+  },
 ]
