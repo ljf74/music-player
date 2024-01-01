@@ -21,6 +21,12 @@ let allMusic = [
     src: "超级风格"
   },
   {
+    name: "想见你想见你想见你",
+    artist: "八三夭乐团",
+    img: "想见你想见你想见你",
+    src: "想见你想见你想见你"
+  },
+  {
     name: "身姿",
     artist: "Jay Park",
     img: "身姿",
@@ -39,11 +45,30 @@ let allMusic = [
     src: "社会摇"
   },
   {
+    name: "小苹果",
+    artist: "筷子兄弟",
+    img: "小苹果",
+    src: "小苹果"
+  },
+  {
     name: "Love Is Gone",
     artist: "Dylan Matthew",
-    img: "Love Is Gone",
-    src: "Love Is Gone"
+    img: "love_is_gone",
+    src: "love_is_gone"
   },
+  {
+    name: "江南Style",
+    artist: "Psy",
+    img: "江南Style",
+    src: "江南Style"
+  },
+  {
+    name: "最炫民族风",
+    artist: "凤凰传奇",
+    img: "最炫民族风",
+    src: "最炫民族风"
+  },
+  
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
