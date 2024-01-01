@@ -14,8 +14,12 @@ closemoreMusic = musicList.querySelector("#close");
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
 window.addEventListener("load", ()=>{
-  loadMusic(musicIndex);
-  playingSong(); 
+  try {
+    loadMusic(musicIndex);
+    playingSong(); 
+  } catch {
+    console.log("LoadMusic function has problem and stop your behavior");
+  }
 });
 function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
@@ -62,11 +66,19 @@ playPauseBtn.addEventListener("click", ()=>{
 });
 //prev music button event
 prevBtn.addEventListener("click", ()=>{
-  prevMusic();
+  try {
+    prevMusic();
+  } catch {
+    console.log('prevMusic function has problem')
+  }
 });
 //next music button event
 nextBtn.addEventListener("click", ()=>{
-  nextMusic();
+  try {
+    nextMusic();
+  } catch {
+    console.log('prevMusic function has problem')
+  }
 });
 // update progress bar width according to music current time
 mainAudio.addEventListener("timeupdate", (e)=>{
@@ -166,7 +178,7 @@ for (let i = 0; i < allMusic.length; i++) {
                   <p>${allMusic[i].artist}</p>
                 </div>
                 <span id="${allMusic[i].src}" class="audio-duration">3:40</span>
-                <audio class="${allMusic[i].src}" src="songs/${allMusic[i].src}.mp3"></audio>
+                <audio class="${allMusic[i].src}"></audio>
               </li>`;
   ulTag.insertAdjacentHTML("beforeend", liTag); //inserting the li inside ul tag
   let liAudioDuartionTag = ulTag.querySelector(`#${allMusic[i].src}`);
