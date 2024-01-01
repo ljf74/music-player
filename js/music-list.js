@@ -7,7 +7,6 @@
 //   }
 //paste it inside the array as more as you want music then you don't need to do any other thing
 
-
 let allMusic = [
   {
     name: "鸭梨大",
@@ -27,24 +26,24 @@ let allMusic = [
     img: "身姿",
     src: "身姿"
   },
-  // {
-  //   name: "Hardwind - Want Me",
-  //   artist: "Mike Archangelo",
-  //   img: "music-4",
-  //   src: "music-4"
-  // },
-  // {
-  //   name: "Jim - Sun Goes Down",
-  //   artist: "Jim Yosef x Roy",
-  //   img: "music-5",
-  //   src: "music-5"
-  // },
-  // {
-  //   name: "Lost Sky - Vision NCS",
-  //   artist: "NCS Release",
-  //   img: "music-6",
-  //   src: "music-6"
-  // },
+  {
+    name: "半岛铁盒",
+    artist: "周杰伦",
+    img: "半岛铁盒",
+    src: "半岛铁盒"
+  },
+  {
+    name: "社会摇",
+    artist: "萧全",
+    img: "社会摇",
+    src: "社会摇"
+  },
+  {
+    name: "Love Is Gone",
+    artist: "Dylan Matthew",
+    img: "Love Is Gone",
+    src: "Love Is Gone"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
