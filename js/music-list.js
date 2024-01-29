@@ -59,4 +59,28 @@ let allMusic = [
     img: "鸭梨大",
     src: "鸭梨大"
   },
+  {
+    name: "Anti Hero",
+    artist: "Taylor Swift",
+    img: "anti_hero",
+    src: "anti_hero"
+  },
+  {
+    name: "Butterfly",
+    artist: "BTS",
+    img: "butterfly_bts",
+    src: "butterfly_bts"
+  },
+  {
+    name: "Empty",
+    artist: "Winner",
+    img: "empty_winner",
+    src: "empty_winner"
+  },
+  {
+    name: "How You Like That",
+    artist: "BlackPink",
+    img: "how_you_like_that",
+    src: "how_you_like_that"
+  },
 ]
