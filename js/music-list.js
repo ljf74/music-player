@@ -89,4 +89,10 @@ let allMusic = [
     img: "gone_rose",
     src: "gone_rose"
   },
+  {
+    name: "手放开",
+    artist: "李圣杰",
+    img: "手放开",
+    src: "手放开"
+  },
 ]
