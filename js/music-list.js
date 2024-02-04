@@ -83,4 +83,10 @@ let allMusic = [
     img: "how_you_like_that",
     src: "how_you_like_that"
   },
+  {
+    name: "Gone",
+    artist: "Rose",
+    img: "gone_rose",
+    src: "gone_rose"
+  },
 ]
