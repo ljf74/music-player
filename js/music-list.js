@@ -119,4 +119,10 @@ let allMusic = [
     img: "梦寐以求",
     src: "梦寐以求"
   },
+  {
+    name: "致爱(Your Song)",
+    artist: "鹿晗",
+    img: "致爱_your_song",
+    src: "致爱_your_song"
+  },
 ]
