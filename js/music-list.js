@@ -95,4 +95,10 @@ let allMusic = [
     img: "手放开",
     src: "手放开"
   },
+  {
+    name: "情人",
+    artist: "杜德伟",
+    img: "情人_杜德伟",
+    src: "情人_杜德伟"
+  },
 ]
