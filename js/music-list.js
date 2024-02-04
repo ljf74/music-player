@@ -1,5 +1,47 @@
 let allMusic = [
   {
+    name: "Gone",
+    artist: "Rose",
+    img: "gone_rose",
+    src: "gone_rose"
+  },
+  {
+    name: "手放开",
+    artist: "李圣杰",
+    img: "手放开",
+    src: "手放开"
+  },
+  {
+    name: "情人",
+    artist: "杜德伟",
+    img: "情人_杜德伟",
+    src: "情人_杜德伟"
+  },
+  {
+    name: "听见下雨的声音",
+    artist: "周杰伦",
+    img: "听见下雨的声音",
+    src: "听见下雨的声音"
+  },
+  {
+    name: "胆小鬼",
+    artist: "梁咏琪",
+    img: "胆小鬼_梁咏琪",
+    src: "胆小鬼_梁咏琪"
+  },
+  {
+    name: "梦寐以求",
+    artist: "王力宏",
+    img: "梦寐以求",
+    src: "梦寐以求"
+  },
+  {
+    name: "致爱(Your Song)",
+    artist: "鹿晗",
+    img: "致爱_your_song",
+    src: "致爱_your_song"
+  },
+  {
     name: "Party",
     artist: "少女时代",
     img: "love_is_gone",
@@ -84,45 +126,9 @@ let allMusic = [
     src: "how_you_like_that"
   },
   {
-    name: "Gone",
-    artist: "Rose",
-    img: "gone_rose",
-    src: "gone_rose"
-  },
-  {
-    name: "手放开",
-    artist: "李圣杰",
-    img: "手放开",
-    src: "手放开"
-  },
-  {
-    name: "情人",
-    artist: "杜德伟",
-    img: "情人_杜德伟",
-    src: "情人_杜德伟"
-  },
-  {
-    name: "听见下雨的声音",
-    artist: "周杰伦",
-    img: "听见下雨的声音",
-    src: "听见下雨的声音"
-  },
-  {
-    name: "胆小鬼",
-    artist: "梁咏琪",
-    img: "胆小鬼_梁咏琪",
-    src: "胆小鬼_梁咏琪"
-  },
-  {
-    name: "梦寐以求",
-    artist: "王力宏",
-    img: "梦寐以求",
-    src: "梦寐以求"
-  },
-  {
-    name: "致爱(Your Song)",
-    artist: "鹿晗",
-    img: "致爱_your_song",
-    src: "致爱_your_song"
+    name: "爱很简单",
+    artist: "陶喆",
+    img: "爱很简单",
+    src: "爱很简单"
   },
 ]
