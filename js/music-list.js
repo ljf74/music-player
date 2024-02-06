@@ -143,4 +143,10 @@ let allMusic = [
     img: "像鱼",
     src: "像鱼"
   },
+  {
+    name: "侧脸",
+    artist: "于果",
+    img: "侧脸",
+    src: "侧脸"
+  },
 ]
