@@ -137,4 +137,10 @@ let allMusic = [
     img: "寂寞烟火",
     src: "寂寞烟火"
   },
+  {
+    name: "像鱼",
+    artist: "王贰浪",
+    img: "像鱼",
+    src: "像鱼"
+  },
 ]
