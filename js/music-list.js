@@ -155,4 +155,10 @@ let allMusic = [
     img: "可爱女人",
     src: "可爱女人"
   },
+  {
+    name: "Mojito",
+    artist: "周杰伦",
+    img: "mojito",
+    src: "mojito"
+  },
 ]
