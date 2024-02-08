@@ -161,4 +161,10 @@ let allMusic = [
     img: "mojito",
     src: "mojito"
   },
+  {
+    name: "Workingman's Blues #2",
+    artist: "周杰伦",
+    img: "workingmans_blues",
+    src: "workingmans_blues"
+  },
 ]
