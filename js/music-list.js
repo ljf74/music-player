@@ -1,5 +1,17 @@
 let allMusic = [
   {
+    name: "一个人想着一个人",
+    artist: "曾沛慈",
+    img: "一个人想着一个人",
+    src: "一个人想着一个人"
+  },
+  {
+    name: "秘密",
+    artist: "蓝又时",
+    img: "秘密_蓝又时",
+    src: "秘密_蓝又时"
+  },
+  {
     name: "Gone",
     artist: "Rose",
     img: "gone_rose",
@@ -166,11 +178,5 @@ let allMusic = [
     artist: "Bob Dylan",
     img: "workingmans_blues",
     src: "workingmans_blues"
-  },
-  {
-    name: "一个人想着一个人",
-    artist: "曾沛慈",
-    img: "一个人想着一个人",
-    src: "一个人想着一个人"
   },
 ]
