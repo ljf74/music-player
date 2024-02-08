@@ -163,8 +163,14 @@ let allMusic = [
   },
   {
     name: "Workingman's Blues #2",
-    artist: "周杰伦",
+    artist: "Bob Dylan",
     img: "workingmans_blues",
     src: "workingmans_blues"
+  },
+  {
+    name: "一个人想着一个人",
+    artist: "曾沛慈",
+    img: "一个人想着一个人",
+    src: "一个人想着一个人"
   },
 ]
