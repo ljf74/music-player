@@ -179,4 +179,10 @@ let allMusic = [
     img: "workingmans_blues",
     src: "workingmans_blues"
   },
+  {
+    name: "风吹一夏",
+    artist: "DP龙猪",
+    img: "风吹一夏",
+    src: "风吹一夏"
+  },
 ]
