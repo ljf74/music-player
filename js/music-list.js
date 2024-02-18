@@ -1,6 +1,6 @@
 let allMusic = [
   {
-    name: "Baby I Need You (Sped Up Version)",
+    name: "Baby I Need You",
     artist: "sped up 8282&Joosiq",
     img: "baby_i_need_you",
     src: "baby_i_need_you"
