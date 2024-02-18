@@ -6,12 +6,6 @@ let allMusic = [
     src: "baby_i_need_you"
   },
   {
-    name: "Fragrance",
-    artist: "mahiru",
-    img: "mahiru - fragrance",
-    src: "mahiru - fragrance"
-  },
-  {
     name: "一个人想着一个人",
     artist: "曾沛慈",
     img: "一个人想着一个人",
