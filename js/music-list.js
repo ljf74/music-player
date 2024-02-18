@@ -1,5 +1,11 @@
 let allMusic = [
   {
+    name: "Baby I Need You (Sped Up Version)",
+    artist: "sped up 8282&Joosiq",
+    img: "baby_i_need_you",
+    src: "baby_i_need_you"
+  },
+  {
     name: "一个人想着一个人",
     artist: "曾沛慈",
     img: "一个人想着一个人",
