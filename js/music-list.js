@@ -191,4 +191,10 @@ let allMusic = [
     img: "风吹一夏",
     src: "风吹一夏"
   },
+  {
+    name: "Fragrance",
+    artist: "mahiru",
+    img: "mahiru - fragrance",
+    src: "mahiru - fragrance"
+  },
 ]
