@@ -186,6 +186,12 @@ let allMusic = [
     src: "workingmans_blues"
   },
   {
+    name: "Like I Do",
+    artist: "J.Tajor",
+    img: "J.Tajor - Like I Do",
+    src: "J.Tajor - Like I Do"
+  },
+  {
     name: "风吹一夏",
     artist: "DP龙猪",
     img: "风吹一夏",
