@@ -180,10 +180,10 @@ let allMusic = [
     src: "mojito"
   },
   {
-    name: "Fragrance",
-    artist: "mahiru",
-    img: "mahiru - fragrance",
-    src: "mahiru - fragrance"
+    name: "Workingman's Blues #2",
+    artist: "Bob Dylan",
+    img: "workingmans_blues",
+    src: "workingmans_blues"
   },
   {
     name: "风吹一夏",
@@ -192,9 +192,9 @@ let allMusic = [
     src: "风吹一夏"
   },
   {
-    name: "Like I Do",
-    artist: "J.Tajor",
-    img: "J.Tajor - Like I Do",
-    src: "J.Tajor - Like I Do"
+    name: "Fragrance",
+    artist: "mahiru",
+    img: "mahiru - fragrance",
+    src: "mahiru - fragrance"
   },
 ]
