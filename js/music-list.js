@@ -192,15 +192,15 @@ let allMusic = [
     src: "风吹一夏"
   },
   {
-    name: "Fragrance",
-    artist: "mahiru",
-    img: "mahiru - fragrance",
-    src: "mahiru - fragrance"
-  },
-  {
     name: "Like I Do",
     artist: "J.Tajor",
     img: "J.Tajor - Like I Do",
     src: "J.Tajor - Like I Do"
+  },
+  {
+    name: "Fragrance",
+    artist: "mahiru",
+    img: "mahiru - fragrance",
+    src: "mahiru - fragrance"
   },
 ]
