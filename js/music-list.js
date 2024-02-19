@@ -197,10 +197,4 @@ let allMusic = [
     img: "mahiru - fragrance",
     src: "mahiru - fragrance"
   },
-  {
-    name: "Like I Do",
-    artist: "J.Tajor",
-    img: "J.Tajor - Like I Do",
-    src: "J.Tajor - Like I Do"
-  },
 ]
