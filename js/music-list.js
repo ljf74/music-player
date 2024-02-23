@@ -203,4 +203,10 @@ let allMusic = [
     img: "like_i_do",
     src: "like_i_do"
   },
+  {
+    name: "心墙",
+    artist: "郭静",
+    img: "心墙_郭静",
+    src: "心墙_郭静"
+  },
 ]
