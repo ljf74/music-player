@@ -209,4 +209,10 @@ let allMusic = [
     img: "心墙_郭静",
     src: "心墙_郭静"
   },
+  {
+    name: "Style",
+    artist: "Taylor Swift",
+    img: "style_taylor",
+    src: "style_taylor"
+  },
 ]
