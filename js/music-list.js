@@ -215,4 +215,10 @@ let allMusic = [
     img: "style_taylor",
     src: "style_taylor"
   },
+  {
+    name: "失落沙洲",
+    artist: "徐佳莹",
+    img: "失落沙洲",
+    src: "失落沙洲"
+  },
 ]
