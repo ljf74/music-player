@@ -263,4 +263,10 @@ let allMusic = [
     img: "会呼吸的痛",
     src: "会呼吸的痛"
   },
+  {
+    name: "囚鸟",
+    artist: "王小帅",
+    img: "囚鸟",
+    src: "囚鸟"
+  },
 ]
