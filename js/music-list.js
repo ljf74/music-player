@@ -221,4 +221,10 @@ let allMusic = [
     img: "失落沙洲",
     src: "失落沙洲"
   },
+  {
+    name: "就是爱你",
+    artist: "陶喆",
+    img: "就是爱你",
+    src: "就是爱你"
+  },
 ]
