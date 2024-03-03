@@ -239,4 +239,10 @@ let allMusic = [
     img: "第一次",
     src: "第一次"
   },
+  {
+    name: "独家记忆",
+    artist: "陈小春",
+    img: "独家记忆",
+    src: "独家记忆"
+  },
 ]
