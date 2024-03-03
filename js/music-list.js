@@ -245,4 +245,10 @@ let allMusic = [
     img: "独家记忆",
     src: "独家记忆"
   },
+  {
+    name: "醉清风",
+    artist: "弦子",
+    img: "醉清风",
+    src: "醉清风"
+  },
 ]
