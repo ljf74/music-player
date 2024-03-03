@@ -233,4 +233,10 @@ let allMusic = [
     img: "练习",
     src: "练习"
   },
+  {
+    name: "第一次",
+    artist: "光良",
+    img: "第一次",
+    src: "第一次"
+  },
 ]
