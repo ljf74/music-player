@@ -227,4 +227,10 @@ let allMusic = [
     img: "就是爱你",
     src: "就是爱你"
   },
+  {
+    name: "练习",
+    artist: "刘德华",
+    img: "练习",
+    src: "练习"
+  },
 ]
