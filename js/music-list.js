@@ -251,4 +251,10 @@ let allMusic = [
     img: "醉清风",
     src: "醉清风"
   },
+  {
+    name: "七里香",
+    artist: "周杰伦",
+    img: "七里香",
+    src: "七里香"
+  },
 ]
