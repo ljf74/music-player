@@ -293,4 +293,10 @@ let allMusic = [
     img: "永不失联的爱",
     src: "永不失联的爱"
   },
+  {
+    name: "Letting Go",
+    artist: "蔡健雅",
+    img: "letting_go",
+    src: "letting_go"
+  },
 ]
