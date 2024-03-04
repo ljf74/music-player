@@ -269,4 +269,10 @@ let allMusic = [
     img: "囚鸟",
     src: "囚鸟"
   },
+  {
+    name: "忽然之间",
+    artist: "莫文蔚",
+    img: "忽然之间",
+    src: "忽然之间"
+  },
 ]
