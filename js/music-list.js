@@ -281,4 +281,10 @@ let allMusic = [
     img: "情非得已",
     src: "情非得已"
   },
+  {
+    name: "背叛",
+    artist: "曹格",
+    img: "背叛",
+    src: "背叛"
+  },
 ]
