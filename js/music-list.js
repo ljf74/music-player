@@ -299,4 +299,10 @@ let allMusic = [
     img: "letting_go",
     src: "letting_go"
   },
+  {
+    name: "2am (feat. 茉ひる)",
+    artist: "VILLSHANA",
+    img: "2am_feat",
+    src: "2am_feat"
+  },
 ]
