@@ -389,4 +389,10 @@ let allMusic = [
     img: "不为谁而作的歌",
     src: "不为谁而作的歌"
   },
+  {
+    name: "Good bye",
+    artist: "HYOLYN",
+    img: "hyolyn_goodbye",
+    src: "hyolyn_goodbye"
+  },
 ]
