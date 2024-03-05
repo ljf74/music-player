@@ -395,4 +395,10 @@ let allMusic = [
     img: "hyolyn_goodbye",
     src: "hyolyn_goodbye"
   },
+  {
+    name: "爱上未来的你",
+    artist: "潘玮柏",
+    img: "爱上未来的你",
+    src: "爱上未来的你"
+  },
 ]
