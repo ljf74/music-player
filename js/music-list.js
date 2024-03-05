@@ -329,4 +329,10 @@ let allMusic = [
     img: "慢慢喜欢你",
     src: "慢慢喜欢你"
   },
+  {
+    name: "恶作剧",
+    artist: "王蓝菌",
+    img: "恶作剧",
+    src: "恶作剧"
+  },
 ]
