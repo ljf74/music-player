@@ -302,8 +302,8 @@ let allMusic = [
   {
     name: "2am (feat. 茉ひる)",
     artist: "VILLSHANA",
-    img: "2am_feat",
-    src: "2am_feat"
+    img: "am2_feat",
+    src: "am2_feat"
   },
   {
     name: "慢冷",
