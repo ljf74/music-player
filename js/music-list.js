@@ -353,4 +353,10 @@ let allMusic = [
     img: "浪费",
     src: "浪费"
   },
+  {
+    name: "煎熬",
+    artist: "李佳薇",
+    img: "煎熬",
+    src: "煎熬"
+  },
 ]
