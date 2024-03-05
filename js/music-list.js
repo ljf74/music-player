@@ -311,4 +311,10 @@ let allMusic = [
     img: "慢冷",
     src: "慢冷"
   },
+  {
+    name: "爱我别走",
+    artist: "张震岳",
+    img: "爱我别走",
+    src: "爱我别走"
+  },
 ]
