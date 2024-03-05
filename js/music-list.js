@@ -347,4 +347,10 @@ let allMusic = [
     img: "唯一_告五人",
     src: "唯一_告五人"
   },
+  {
+    name: "浪费",
+    artist: "林宥嘉",
+    img: "浪费",
+    src: "浪费"
+  },
 ]
