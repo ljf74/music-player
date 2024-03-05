@@ -317,4 +317,10 @@ let allMusic = [
     img: "爱我别走",
     src: "爱我别走"
   },
+  {
+    name: "听海",
+    artist: "张惠妹",
+    img: "听海",
+    src: "听海"
+  },
 ]
