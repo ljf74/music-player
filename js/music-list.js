@@ -323,4 +323,10 @@ let allMusic = [
     img: "听海",
     src: "听海"
   },
+  {
+    name: "慢慢喜欢你",
+    artist: "莫文蔚",
+    img: "慢慢喜欢你",
+    src: "慢慢喜欢你"
+  },
 ]
