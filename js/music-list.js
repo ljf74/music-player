@@ -305,4 +305,10 @@ let allMusic = [
     img: "2am_feat",
     src: "2am_feat"
   },
+  {
+    name: "慢冷",
+    artist: "王一楠",
+    img: "慢冷",
+    src: "慢冷"
+  },
 ]
