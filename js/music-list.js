@@ -419,4 +419,10 @@ let allMusic = [
     img: "dear_my_x",
     src: "dear_my_x"
   },
+  {
+    name: "天后",
+    artist: "陈势安",
+    img: "天后",
+    src: "天后"
+  },
 ]
