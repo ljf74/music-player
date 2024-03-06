@@ -407,4 +407,10 @@ let allMusic = [
     img: "need_conversation",
     src: "need_conversation"
   },
+  {
+    name: "More Than Words",
+    artist: "피아노맨&Joosiq",
+    img: "more_than_words",
+    src: "more_than_words"
+  },
 ]
