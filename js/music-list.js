@@ -401,4 +401,10 @@ let allMusic = [
     img: "爱上未来的你",
     src: "爱上未来的你"
   },
+  {
+    name: "Need Conversation",
+    artist: "Jeong Hyo Bin&Joosiq",
+    img: "need_conversation",
+    src: "need_conversation"
+  },
 ]
