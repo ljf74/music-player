@@ -473,4 +473,10 @@ let allMusic = [
     img: "cant_feel_my_face",
     src: "cant_feel_my_face"
   },
+  {
+    name: "Monsters",
+    artist: "Katie Sky",
+    img: "monsters",
+    src: "monsters"
+  },
 ]
