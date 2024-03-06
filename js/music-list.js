@@ -1,5 +1,11 @@
 let allMusic = [
   {
+    name: "CONTIGO",
+    artist: "KAROL G",
+    img: "contigo",
+    src: "contigo"
+  },
+  {
     name: "Baby I Need You",
     artist: "sped up 8282&Joosiq",
     img: "baby_i_need_you",
