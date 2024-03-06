@@ -455,4 +455,16 @@ let allMusic = [
     img: "marshmello_alone",
     src: "marshmello_alone"
   },
+  {
+    name: "Work from Home",
+    artist: "Fifth Harmony",
+    img: "work_from_home",
+    src: "work_from_home"
+  },
+  {
+    name: "Don't Start Now",
+    artist: "Dua Lipa",
+    img: "dont_start_now",
+    src: "dont_start_now"
+  },
 ]
