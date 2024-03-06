@@ -413,4 +413,10 @@ let allMusic = [
     img: "more_than_words",
     src: "more_than_words"
   },
+  {
+    name: "Dear my X",
+    artist: "KyoungSeo",
+    img: "dear_my_x",
+    src: "dear_my_x"
+  },
 ]
