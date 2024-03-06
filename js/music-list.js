@@ -431,4 +431,16 @@ let allMusic = [
     img: "天后",
     src: "天后"
   },
+  {
+    name: "exes",
+    artist: "Tate McRae",
+    img: "exes",
+    src: "exes"
+  },
+  {
+    name: "greedy",
+    artist: "Tate McRae",
+    img: "greedy",
+    src: "greedy"
+  },
 ]
