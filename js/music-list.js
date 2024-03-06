@@ -467,4 +467,10 @@ let allMusic = [
     img: "dont_start_now",
     src: "dont_start_now"
   },
+  {
+    name: "Can't Feel My Face",
+    artist: "The Weeknd",
+    img: "cant_feel_my_face",
+    src: "cant_feel_my_face"
+  },
 ]
