@@ -443,4 +443,10 @@ let allMusic = [
     img: "greedy",
     src: "greedy"
   },
+  {
+    name: "Better Off",
+    artist: "Alan Walker",
+    img: "better_off",
+    src: "better_off"
+  },
 ]
