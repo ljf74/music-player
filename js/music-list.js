@@ -449,4 +449,10 @@ let allMusic = [
     img: "better_off",
     src: "better_off"
   },
+  {
+    name: "Alone",
+    artist: "Marshmello",
+    img: "marshmello_alone",
+    src: "marshmello_alone"
+  },
 ]
