@@ -503,4 +503,10 @@ let allMusic = [
     img: "better_days",
     src: "better_days"
   },
+  {
+    name: "Green Green Grass",
+    artist: "George Ezra",
+    img: "green_green_grass",
+    src: "green_green_grass"
+  },
 ]
