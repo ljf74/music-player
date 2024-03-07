@@ -521,4 +521,10 @@ let allMusic = [
     img: "rather_be",
     src: "rather_be"
   },
+  {
+    name: "Baby Don’t Hurt Me",
+    artist: "David Guetta",
+    img: "baby_dont_hurt_me",
+    src: "baby_dont_hurt_me"
+  },
 ]
