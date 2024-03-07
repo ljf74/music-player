@@ -515,4 +515,10 @@ let allMusic = [
     img: "havana",
     src: "havana"
   },
+  {
+    name: "Rather Be",
+    artist: "Clean Bandit",
+    img: "rather_be",
+    src: "rather_be"
+  },
 ]
