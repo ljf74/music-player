@@ -497,4 +497,10 @@ let allMusic = [
     img: "better_off_alone",
     src: "better_off_alone"
   },
+  {
+    name: "Better Days",
+    artist: "Polo G",
+    img: "better_days",
+    src: "better_days"
+  },
 ]
