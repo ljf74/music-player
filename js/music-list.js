@@ -479,4 +479,10 @@ let allMusic = [
     img: "monsters",
     src: "monsters"
   },
+  {
+    name: "Titanium",
+    artist: "David Guetta",
+    img: "titanium",
+    src: "titanium"
+  },
 ]
