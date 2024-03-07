@@ -491,4 +491,10 @@ let allMusic = [
     img: "summer_ch",
     src: "summer_ch"
   },
+  {
+    name: "Better Off Alone",
+    artist: "Josh Le Tissie",
+    img: "better_off_alone",
+    src: "better_off_alone"
+  },
 ]
