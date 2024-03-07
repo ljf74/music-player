@@ -485,4 +485,10 @@ let allMusic = [
     img: "titanium",
     src: "titanium"
   },
+  {
+    name: "Summer",
+    artist: "Calvin Harris",
+    img: "summer_ch",
+    src: "summer_ch"
+  },
 ]
