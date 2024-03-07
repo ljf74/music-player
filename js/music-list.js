@@ -509,4 +509,10 @@ let allMusic = [
     img: "green_green_grass",
     src: "green_green_grass"
   },
+  {
+    name: "Havana",
+    artist: "Camila Cabello",
+    img: "havana",
+    src: "havana"
+  },
 ]
