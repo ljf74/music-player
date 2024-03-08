@@ -533,4 +533,10 @@ let allMusic = [
     img: "tiktok",
     src: "tiktok"
   },
+  {
+    name: "Vampire",
+    artist: "Olivia Rodrigo",
+    img: "vampire",
+    src: "vampire"
+  },
 ]
