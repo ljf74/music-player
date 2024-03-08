@@ -527,4 +527,10 @@ let allMusic = [
     img: "baby_dont_hurt_me",
     src: "baby_dont_hurt_me"
   },
+  {
+    name: "Tik Tok",
+    artist: "Kesha",
+    img: "tiktok",
+    src: "tiktok"
+  },
 ]
