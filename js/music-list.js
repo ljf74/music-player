@@ -539,4 +539,16 @@ let allMusic = [
     img: "vampire",
     src: "vampire"
   },
+  {
+    name: "Die Young",
+    artist: "Kesha",
+    img: "die_young",
+    src: "die_young"
+  },
+  {
+    name: "Timber",
+    artist: "Kesha",
+    img: "timber",
+    src: "timber"
+  },
 ]
