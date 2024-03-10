@@ -557,4 +557,10 @@ let allMusic = [
     img: "it_is_what_is",
     src: "it_is_what_is"
   },
+  {
+    name: "Happier By Now",
+    artist: "Kai Wachi",
+    img: "happier_by_now",
+    src: "happier_by_now"
+  },
 ]
