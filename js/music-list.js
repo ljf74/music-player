@@ -563,4 +563,10 @@ let allMusic = [
     img: "happier_by_now",
     src: "happier_by_now"
   },
+  {
+    name: "Levitating",
+    artist: "Dua Lipa",
+    img: "levitating",
+    src: "levitating"
+  },
 ]
