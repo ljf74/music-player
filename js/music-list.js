@@ -551,4 +551,10 @@ let allMusic = [
     img: "timber",
     src: "timber"
   },
+  {
+    name: "it is what it is",
+    artist: "Abe Parker",
+    img: "it_is_what_is",
+    src: "it_is_what_is"
+  },
 ]
