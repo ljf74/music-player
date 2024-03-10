@@ -575,4 +575,10 @@ let allMusic = [
     img: "down_js",
     src: "down_js"
   },
+  {
+    name: "Let Me Love You",
+    artist: "DJ Snake",
+    img: "let_me_love_you",
+    src: "let_me_love_you"
+  },
 ]
