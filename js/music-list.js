@@ -569,4 +569,10 @@ let allMusic = [
     img: "levitating",
     src: "levitating"
   },
+  {
+    name: "Down",
+    artist: "Jay Sean",
+    img: "down_js",
+    src: "down_js"
+  },
 ]
