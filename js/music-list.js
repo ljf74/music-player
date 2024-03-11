@@ -593,4 +593,10 @@ let allMusic = [
     img: "baby_you_dont_know_me",
     src: "baby_you_dont_know_me"
   },
+  {
+    name: "Diff.",
+    artist: "Gin Lee",
+    img: "diff",
+    src: "diff"
+  },
 ]
