@@ -1,5 +1,11 @@
 let allMusic = [
   {
+    name: "Savage Love",
+    artist: "Jawsh 685",
+    img: "savage_love",
+    src: "savage_love"
+  },
+  {
     name: "CONTIGO",
     artist: "KAROL G",
     img: "contigo",
