@@ -599,4 +599,16 @@ let allMusic = [
     img: "diff",
     src: "diff"
   },
+  {
+    name: "离开地球表面",
+    artist: "五月天",
+    img: "离开地球表面",
+    src: "离开地球表面"
+  },
+  {
+    name: "让我留在你身边",
+    artist: "陈奕迅",
+    img: "让我留在你身边",
+    src: "让我留在你身边"
+  },
 ]
