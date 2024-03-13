@@ -623,4 +623,16 @@ let allMusic = [
     img: "two_at_a_time",
     src: "two_at_a_time"
   },
+  {
+    name: "皮思苦",
+    artist: "陳瑞輝",
+    img: "皮思苦",
+    src: "皮思苦"
+  },
+  {
+    name: "INYU",
+    artist: "TAEYEON",
+    img: "inyu",
+    src: "inyu"
+  },
 ]
