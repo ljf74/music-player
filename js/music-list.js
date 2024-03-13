@@ -611,4 +611,10 @@ let allMusic = [
     img: "让我留在你身边",
     src: "让我留在你身边"
   },
+  {
+    name: "怒放",
+    artist: "G-Dragon",
+    img: "怒放",
+    src: "怒放"
+  },
 ]
