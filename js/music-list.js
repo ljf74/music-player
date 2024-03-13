@@ -617,4 +617,10 @@ let allMusic = [
     img: "怒放",
     src: "怒放"
   },
+  {
+    name: "Two at A Time",
+    artist: "AGA",
+    img: "two_at_a_time",
+    src: "two_at_a_time"
+  },
 ]
