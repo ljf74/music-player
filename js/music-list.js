@@ -635,4 +635,10 @@ let allMusic = [
     img: "inyu",
     src: "inyu"
   },
+  {
+    name: "Favourite Jeans",
+    artist: "moon tang",
+    img: "inyu",
+    src: "inyu"
+  },
 ]
