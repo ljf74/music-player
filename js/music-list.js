@@ -641,4 +641,10 @@ let allMusic = [
     img: "inyu",
     src: "inyu"
   },
+  {
+    name: "万人邂逅",
+    artist: "陈咏桐",
+    img: "万人邂逅",
+    src: "万人邂逅"
+  },
 ]
