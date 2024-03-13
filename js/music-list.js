@@ -677,4 +677,10 @@ let allMusic = [
     img: "love_u_like_that",
     src: "love_u_like_that"
   },
+  {
+    name: "All Fails Down",
+    artist: "Alan Walker",
+    img: "all_fails_down",
+    src: "all_fails_down"
+  },
 ]
