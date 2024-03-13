@@ -647,4 +647,16 @@ let allMusic = [
     img: "万人邂逅",
     src: "万人邂逅"
   },
+  {
+    name: "abcdefu",
+    artist: "GAYLE",
+    img: "abcdefu",
+    src: "abcdefu"
+  },
+  {
+    name: "Someone You Loved",
+    artist: "刘易斯·卡帕尔迪",
+    img: "someone_you_loved",
+    src: "someone_you_loved"
+  },
 ]
