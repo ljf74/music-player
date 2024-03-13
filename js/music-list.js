@@ -671,4 +671,10 @@ let allMusic = [
     img: "sweet_but_psycho",
     src: "sweet_but_psycho"
   },
+  {
+    name: "Love U Like That",
+    artist: "Lauv",
+    img: "love_u_like_that",
+    src: "love_u_like_that"
+  },
 ]
