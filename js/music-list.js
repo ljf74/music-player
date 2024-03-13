@@ -638,8 +638,8 @@ let allMusic = [
   {
     name: "Favourite Jeans",
     artist: "moon tang",
-    img: "inyu",
-    src: "inyu"
+    img: "favourite_jeans",
+    src: "favourite_jeans"
   },
   {
     name: "万人邂逅",
