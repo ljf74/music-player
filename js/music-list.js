@@ -667,7 +667,7 @@ let allMusic = [
   },
   {
     name: "Sweet but Psycho",
-    artist: "李浩瑋",
+    artist: "Ava Max",
     img: "sweet_but_psycho",
     src: "sweet_but_psycho"
   },
