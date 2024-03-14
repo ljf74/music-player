@@ -689,4 +689,10 @@ let allMusic = [
     img: "price_tag",
     src: "price_tag"
   },
+  {
+    name: "Counting Stars",
+    artist: "OneRepublic",
+    img: "counting_stars",
+    src: "counting_stars"
+  },
 ]
