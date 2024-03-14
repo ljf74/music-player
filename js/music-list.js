@@ -1,11 +1,5 @@
 let allMusic = [
   {
-    name: "Savage Love",
-    artist: "Jawsh 685",
-    img: "savage_love",
-    src: "savage_love"
-  },
-  {
     name: "CONTIGO",
     artist: "KAROL G",
     img: "contigo",
@@ -682,5 +676,17 @@ let allMusic = [
     artist: "Alan Walker",
     img: "all_fails_down",
     src: "all_fails_down"
+  },
+  {
+    name: "Savage Love",
+    artist: "Jawsh 685",
+    img: "savage_love",
+    src: "savage_love"
+  },
+  {
+    name: "Price Tag",
+    artist: "Jessie J",
+    img: "price_tag",
+    src: "price_tag"
   },
 ]
