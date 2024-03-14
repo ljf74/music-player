@@ -660,7 +660,7 @@ let allMusic = [
     src: "someone_you_loved"
   },
   {
-    name: "i_hate_myself_sometimes",
+    name: "I Hate Myself Sometimes",
     artist: "李浩瑋",
     img: "i_hate_myself_sometimes",
     src: "i_hate_myself_sometimes"
