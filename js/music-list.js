@@ -701,4 +701,10 @@ let allMusic = [
     img: "love_is_gone",
     src: "love_is_gone"
   },
+  {
+    name: "How To Love ft Sofia Reyes",
+    artist: "Cash Cash",
+    img: "how_to_love_ft",
+    src: "how_to_love_ft"
+  },
 ]
