@@ -695,4 +695,10 @@ let allMusic = [
     img: "counting_stars",
     src: "counting_stars"
   },
+  {
+    name: "Love Is Gone",
+    artist: "SLANDER",
+    img: "love_is_gone",
+    src: "love_is_gone"
+  },
 ]
