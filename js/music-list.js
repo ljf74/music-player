@@ -1,4 +1,4 @@
-let allMusic = [
+let allMusic = [ 
   {
     name: "By Your Side",
     artist: "Jonas Blue",
@@ -712,5 +712,23 @@ let allMusic = [
     artist: "Cash Cash",
     img: "how_to_love_ft",
     src: "how_to_love_ft"
+  },
+  {
+    name: "In The Name Of Love",
+    artist: "Martin Garrix",
+    img: "in_the_name_of_love",
+    src: "in_the_name_of_love"
+  },
+  {
+    name: "Ghost",
+    artist: "Justin Bieber",
+    img: "jb_ghost",
+    src: "jb_ghost"
+  },
+  {
+    name: "Why Don't We",
+    artist: "8 Letters",
+    img: "why_dont_we",
+    src: "why_dont_we"
   },
 ]
