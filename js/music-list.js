@@ -743,4 +743,34 @@ let allMusic = [
     img: "the_middle",
     src: "the_middle"
   },
+  {
+    name: "Hall of Fame",
+    artist: "The Script",
+    img: "hall_of_fame",
+    src: "hall_of_fame"
+  },
+  {
+    name: "Intentions",
+    artist: "Justin Bieber",
+    img: "Intentions",
+    src: "Intentions"
+  },
+  {
+    name: "Roar",
+    artist: "Katy Perry",
+    img: "Roar",
+    src: "Roar"
+  },
+  {
+    name: "The Nights",
+    artist: "Avicii",
+    img: "the_nights",
+    src: "the_nights"
+  },
+  {
+    name: "Shake It Off",
+    artist: "Taylor Swift",
+    img: "shake_it_off",
+    src: "shake_it_off"
+  },
 ]
