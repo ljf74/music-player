@@ -731,4 +731,16 @@ let allMusic = [
     img: "why_dont_we",
     src: "why_dont_we"
   },
+  {
+    name: "Pretty Girl",
+    artist: "Maggie Lindemann",
+    img: "pretty_girl",
+    src: "pretty_girl"
+  },
+  {
+    name: "The Middle",
+    artist: "Zedd, Maren",
+    img: "the_middle",
+    src: "the_middle"
+  },
 ]
