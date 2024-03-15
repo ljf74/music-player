@@ -1,5 +1,11 @@
 let allMusic = [
   {
+    name: "By Your Side",
+    artist: "Jonas Blue",
+    img: "by_your_side",
+    src: "by_your_side"
+  },
+  {
     name: "CONTIGO",
     artist: "KAROL G",
     img: "contigo",
