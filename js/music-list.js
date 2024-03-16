@@ -791,4 +791,10 @@ let allMusic = [
     img: "Dandelions_rb",
     src: "Dandelions_rb"
   },
+  {
+    name: "Habits",
+    artist: "Tove Lo",
+    img: "habits_tl",
+    src: "habits_tl"
+  },
 ]
