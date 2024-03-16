@@ -773,4 +773,22 @@ let allMusic = [
     img: "shake_it_off",
     src: "shake_it_off"
   },
+  {
+    name: "Love Me Like You Do",
+    artist: "Ellie Goulding",
+    img: "love_me_like_you_do",
+    src: "love_me_like_you_do"
+  },
+  {
+    name: "Firework",
+    artist: "Katy Perry",
+    img: "firework_kp",
+    src: "firework_kp"
+  },
+  {
+    name: "Dandelions",
+    artist: "Ruth B",
+    img: "Dandelions_rb",
+    src: "Dandelions_rb"
+  },
 ]
