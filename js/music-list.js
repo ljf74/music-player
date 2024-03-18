@@ -810,7 +810,7 @@ let allMusic = [
     src: "normal_no_more"
   },
   {
-    name: "Normal For You",
+    name: "Fool For You",
     artist: "Kastra",
     img: "fool_for_you",
     src: "fool_for_you"
@@ -820,5 +820,17 @@ let allMusic = [
     artist: "Professor Green",
     img: "in_the_shadow_of_the_sun",
     src: "in_the_shadow_of_the_sun"
+  },
+  {
+    name: "I Don't Care",
+    artist: "Ed Sheeran & Justin Bieber",
+    img: "i_dont_care",
+    src: "i_dont_care"
+  },
+  {
+    name: "Sunroof",
+    artist: "Nicky Youre, dazy",
+    img: "sunroof",
+    src: "sunroof"
   },
 ]
