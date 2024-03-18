@@ -797,4 +797,28 @@ let allMusic = [
     img: "habits_tl",
     src: "habits_tl"
   },
+  {
+    name: "24_7, 365",
+    artist: "elijah woods",
+    img: "24_7_365",
+    src: "24_7_365"
+  },
+  {
+    name: "Normal No More",
+    artist: "Vietsub",
+    img: "normal_no_more",
+    src: "normal_no_more"
+  },
+  {
+    name: "Normal For You",
+    artist: "Kastra",
+    img: "fool_for_you",
+    src: "fool_for_you"
+  },
+  {
+    name: "In The Shadow Of The Sun",
+    artist: "Professor Green",
+    img: "in_the_shadow_of_the_sun",
+    src: "in_the_shadow_of_the_sun"
+  },
 ]
