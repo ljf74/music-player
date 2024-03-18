@@ -800,8 +800,8 @@ let allMusic = [
   {
     name: "24_7, 365",
     artist: "elijah woods",
-    img: "24_7_365",
-    src: "24_7_365"
+    img: "ew_24",
+    src: "ew_24"
   },
   {
     name: "Normal No More",
