@@ -851,4 +851,40 @@ let allMusic = [
     img: "Stitches",
     src: "Stitches"
   },
+  {
+    name: "Say You Won't Let Go",
+    artist: "James Arthur",
+    img: "say_you_wont_let_go",
+    src: "say_you_wont_let_go"
+  },
+  {
+    name: "Stitches",
+    artist: "SHAUN",
+    img: "way_back_home",
+    src: "way_back_home"
+  },
+  {
+    name: "Little Bit Better",
+    artist: "Caleb Hearn & ROSIE",
+    img: "little_bit_better",
+    src: "little_bit_better"
+  },
+  {
+    name: "Drunk Text",
+    artist: "Henry Moodie",
+    img: "drunk_text",
+    src: "drunk_text"
+  },
+  {
+    name: "Night Changes",
+    artist: "One Direction",
+    img: "night_changes",
+    src: "night_changes"
+  },
+  {
+    name: "comethru",
+    artist: "Jeremy Zucker",
+    img: "comethru",
+    src: "comethru"
+  },
 ]
