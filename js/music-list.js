@@ -858,7 +858,7 @@ let allMusic = [
     src: "say_you_wont_let_go"
   },
   {
-    name: "Stitches",
+    name: "Way Back Home",
     artist: "SHAUN",
     img: "way_back_home",
     src: "way_back_home"
