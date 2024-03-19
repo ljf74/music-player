@@ -833,4 +833,22 @@ let allMusic = [
     img: "sunroof",
     src: "sunroof"
   },
+  {
+    name: "If I Cant Have You",
+    artist: "Shawn Mendes",
+    img: "if_i_cant_have_you",
+    src: "if_i_cant_have_you"
+  },
+  {
+    name: "Rain on Me",
+    artist: "Lady Gaga",
+    img: "rain_on_me",
+    src: "rain_on_me"
+  },
+  {
+    name: "Stitches",
+    artist: "Shawn Mendes",
+    img: "Stitches",
+    src: "Stitches"
+  },
 ]
