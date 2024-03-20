@@ -798,7 +798,7 @@ let allMusic = [
     src: "habits_tl"
   },
   {
-    name: "24/7,365",
+    name: "24/7, 365",
     artist: "elijah woods",
     img: "ew_24",
     src: "ew_24"
