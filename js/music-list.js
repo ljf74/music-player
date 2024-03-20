@@ -887,4 +887,16 @@ let allMusic = [
     img: "comethru",
     src: "comethru"
   },
+  {
+    name: "Magic",
+    artist: "Super Junior",
+    img: "super_junoir_magic",
+    src: "super_junoir_magic"
+  },
+  {
+    name: "I'm the One",
+    artist: "Justin Bieber",
+    img: "i_am_the_one",
+    src: "i_am_the_one"
+  },
 ]
