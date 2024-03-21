@@ -905,4 +905,16 @@ let allMusic = [
     img: "deep_end",
     src: "deep_end"
   },
+  {
+    name: "Body Back",
+    artist: "Gryffin",
+    img: "body_back",
+    src: "body_back"
+  },
+  {
+    name: "Million Days",
+    artist: "Sabai",
+    img: "million_days",
+    src: "million_days"
+  },
 ]
