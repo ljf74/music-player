@@ -917,4 +917,10 @@ let allMusic = [
     img: "million_days",
     src: "million_days"
   },
+  {
+    name: "失眠飞行",
+    artist: "沈以诚",
+    img: "失眠飞行",
+    src: "失眠飞行"
+  },
 ]
