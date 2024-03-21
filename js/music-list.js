@@ -899,4 +899,10 @@ let allMusic = [
     img: "i_am_the_one",
     src: "i_am_the_one"
   },
+  {
+    name: "Deep End",
+    artist: "William Black",
+    img: "deep_end",
+    src: "deep_end"
+  },
 ]
