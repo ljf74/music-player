@@ -222,3 +222,6 @@ function clicked(element){
   playMusic();
   playingSong();
 }
+
+// set title as song name
+document.title = allMusic[musicIndex - 1].name;
