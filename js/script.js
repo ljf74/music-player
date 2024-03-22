@@ -45,6 +45,7 @@ function prevMusic(){
   //if musicIndex is less than 1 then musicIndex will be the array length so the last music play
   musicIndex < 1 ? musicIndex = allMusic.length : musicIndex = musicIndex;
   loadMusic(musicIndex);
+  document.title = allMusic[musicIndex - 1].name;
   playMusic();
   playingSong(); 
 }
@@ -54,6 +55,7 @@ function nextMusic(){
   //if musicIndex is greater than array length then musicIndex will be 1 so the first music play
   musicIndex > allMusic.length ? musicIndex = 1 : musicIndex = musicIndex;
   loadMusic(musicIndex);
+  document.title = allMusic[musicIndex - 1].name;
   playMusic();
   playingSong(); 
 }
@@ -147,6 +149,7 @@ mainAudio.addEventListener("ended", ()=>{
     case "repeat_one":
       mainAudio.currentTime = 0; //setting audio current time to 0
       loadMusic(musicIndex); //calling loadMusic function with argument, in the argument there is a index of current song
+      document.title = allMusic[musicIndex - 1].name;
       playMusic(); //calling playMusic function
       break;
     case "shuffle":
@@ -155,6 +158,7 @@ mainAudio.addEventListener("ended", ()=>{
         randIndex = Math.floor((Math.random() * allMusic.length) + 1);
       }while(musicIndex == randIndex); //this loop run until the next random number won't be the same of current musicIndex
       musicIndex = randIndex; //passing randomIndex to musicIndex
+      document.title = allMusic[musicIndex - 1].name;
       loadMusic(musicIndex);
       playMusic();
       playingSong();
@@ -219,9 +223,10 @@ function clicked(element){
   let getLiIndex = element.getAttribute("li-index");
   musicIndex = getLiIndex; //updating current song index with clicked li index
   loadMusic(musicIndex);
+  document.title = allMusic[musicIndex - 1].name;
   playMusic();
   playingSong();
 }
 
-// set title as song name
+// set initial title as song name
 document.title = allMusic[musicIndex - 1].name;
