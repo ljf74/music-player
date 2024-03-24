@@ -959,4 +959,16 @@ let allMusic = [
     img: "the_way_i_still_love_you",
     src: "the_way_i_still_love_you"
   },
+  {
+    name: "Sunburst",
+    artist: "Tobu & Itro",
+    img: "sunburst",
+    src: "sunburst"
+  },
+  {
+    name: "Something Strange",
+    artist: "Vicetone",
+    img: "something_strange",
+    src: "something_strange"
+  },
 ]
