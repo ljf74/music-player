@@ -923,4 +923,52 @@ let allMusic = [
     img: "失眠飞行",
     src: "失眠飞行"
   },
+  {
+    name: "没有理由",
+    artist: "周延英",
+    img: "没有理由",
+    src: "没有理由"
+  },
+  {
+    name: "0321",
+    artist: "space x",
+    img: "spacex_0321",
+    src: "spacex_0321"
+  },
+  {
+    name: "时光背面的我",
+    artist: "刘至佳",
+    img: "时光背面的我",
+    src: "时光背面的我"
+  },
+  {
+    name: "放个大招给你看",
+    artist: "永彬Ryan.B",
+    img: "放个大招给你看",
+    src: "放个大招给你看"
+  },
+  {
+    name: "Empty Love",
+    artist: "Lulleaux",
+    img: "empty_love",
+    src: "empty_love"
+  },
+  {
+    name: "Fatal Love",
+    artist: "Jori King",
+    img: "fatal_love",
+    src: "fatal_love"
+  },
+  {
+    name: "Mine (Illenium Remix)",
+    artist: "Phoebe Ryan",
+    img: "pr_mine",
+    src: "pr_mine"
+  },
+  {
+    name: "The Way I Still Love You",
+    artist: "Reynard Silva",
+    img: "the_way_i_still_love_you",
+    src: "the_way_i_still_love_you"
+  },
 ]
