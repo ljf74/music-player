@@ -930,12 +930,6 @@ let allMusic = [
     src: "没有理由"
   },
   {
-    name: "0321",
-    artist: "space x",
-    img: "spacex_0321",
-    src: "spacex_0321"
-  },
-  {
     name: "时光背面的我",
     artist: "刘至佳",
     img: "时光背面的我",
@@ -946,12 +940,6 @@ let allMusic = [
     artist: "永彬Ryan.B",
     img: "放个大招给你看",
     src: "放个大招给你看"
-  },
-  {
-    name: "Empty Love",
-    artist: "Lulleaux",
-    img: "empty_love",
-    src: "empty_love"
   },
   {
     name: "Fatal Love",
