@@ -971,4 +971,52 @@ let allMusic = [
     img: "something_strange",
     src: "something_strange"
   },
+  {
+    name: "Save Me",
+    artist: "DEAMN",
+    img: "save_me",
+    src: "save_me"
+  },
+  {
+    name: "Meant To Be",
+    artist: "Krista Marina",
+    img: "meant_to_be",
+    src: "meant_to_be"
+  },
+  {
+    name: "Make Me Move",
+    artist: "Culture Code",
+    img: "make_me_move",
+    src: "make_me_move"
+  },
+  {
+    name: "Run Free",
+    artist: "Deep Chills",
+    img: "run_free",
+    src: "run_free"
+  },
+  {
+    name: "Fractures",
+    artist: "Illenium",
+    img: "fractures",
+    src: "fractures"
+  },
+  {
+    name: "Drown",
+    artist: "Martin-Garrix",
+    img: "drown",
+    src: "drown"
+  },
+  {
+    name: "Home (Blaze U Remix)",
+    artist: "Thimlife",
+    img: "bz_home",
+    src: "bz_home"
+  },
+  {
+    name: "Where Is Your Love",
+    artist: "J Lisk",
+    img: "where_is_your_love",
+    src: "where_is_your_love"
+  },
 ]
