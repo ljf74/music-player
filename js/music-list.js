@@ -1019,4 +1019,16 @@ let allMusic = [
     img: "where_is_your_love",
     src: "where_is_your_love"
   },
+  {
+    name: "Power",
+    artist: "Interupt",
+    img: "power",
+    src: "power"
+  },
+  {
+    name: "Move Up",
+    artist: "Mr.Polska",
+    img: "move_up",
+    src: "move_up"
+  },
 ]
