@@ -708,7 +708,7 @@ let allMusic = [
     src: "love_is_gone"
   },
   {
-    name: "How To Love ft Sofia Reyes",
+    name: "How To Love",
     artist: "Cash Cash",
     img: "how_to_love_ft",
     src: "how_to_love_ft"
@@ -1030,5 +1030,11 @@ let allMusic = [
     artist: "Mr.Polska",
     img: "move_up",
     src: "move_up"
+  },
+  {
+    name: "Seasons",
+    artist: "Anime Mix",
+    img: "amseasons",
+    src: "amseasons"
   },
 ]
