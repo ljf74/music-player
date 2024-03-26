@@ -1037,4 +1037,52 @@ let allMusic = [
     img: "amseasons",
     src: "amseasons"
   },
+  {
+    name: "- Crazy Electronic Pop NCS - Copyright Free Music",
+    artist: "BEAUZ & JVNA",
+    img: "bj_crazy",
+    src: "bj_crazy"
+  },
+  {
+    name: "Deep Blue",
+    artist: "Monika Santucci",
+    img: "deep_blue",
+    src: "deep_blue"
+  },
+  {
+    name: "End Of The Night",
+    artist: "Danny Avila",
+    img: "end_of_the_night",
+    src: "end_of_the_night"
+  },
+  {
+    name: "Go Again",
+    artist: "King CAAN",
+    img: "go_again",
+    src: "go_again"
+  },
+  {
+    name: "Hero",
+    artist: "Christina Perri",
+    img: "cp_hero",
+    src: "cp_hero"
+  },
+  {
+    name: "Little Do You Know",
+    artist: "Alex & Sierra",
+    img: "little_do_you_know",
+    src: "little_do_you_know"
+  },
+  {
+    name: "Touch",
+    artist: "3LAU",
+    img: "lau_touch",
+    src: "lau_touch"
+  },
+  {
+    name: "Waiting",
+    artist: "Dash Berlin",
+    img: "dash_waiting",
+    src: "dash_waiting"
+  },
 ]
