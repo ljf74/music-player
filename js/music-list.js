@@ -1085,4 +1085,16 @@ let allMusic = [
     img: "dash_waiting",
     src: "dash_waiting"
   },
+  {
+    name: "Beautiful Now",
+    artist: "Zedd",
+    img: "beautiful_now",
+    src: "beautiful_now"
+  },
+  {
+    name: "Stay",
+    artist: "Alessia Cara",
+    img: "zstay",
+    src: "Zstay"
+  },
 ]
