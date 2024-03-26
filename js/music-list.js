@@ -1038,7 +1038,7 @@ let allMusic = [
     src: "amseasons"
   },
   {
-    name: "- Crazy Electronic Pop NCS - Copyright Free Music",
+    name: "Crazy",
     artist: "BEAUZ & JVNA",
     img: "bj_crazy",
     src: "bj_crazy"
