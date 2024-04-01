@@ -1097,4 +1097,10 @@ let allMusic = [
     img: "zstay",
     src: "Zstay"
   },
+  {
+    name: "戒不掉",
+    artist: "欧阳耀莹",
+    img: "戒不掉",
+    src: "戒不掉"
+  },
 ]
