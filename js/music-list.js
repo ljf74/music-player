@@ -630,10 +630,10 @@ let allMusic = [
     src: "皮思苦"
   },
   {
-    name: "INYU",
+    name: "INVU",
     artist: "TAEYEON",
-    img: "inyu",
-    src: "inyu"
+    img: "invu",
+    src: "invu"
   },
   {
     name: "Favourite Jeans",
