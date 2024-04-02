@@ -1103,4 +1103,16 @@ let allMusic = [
     img: "戒不掉",
     src: "戒不掉"
   },
+  {
+    name: "棉花糖",
+    artist: "至上励合",
+    img: "棉花糖",
+    src: "棉花糖"
+  },
+  {
+    name: "如果的事",
+    artist: "火鸡",
+    img: "如果的事",
+    src: "如果的事"
+  },
 ]
