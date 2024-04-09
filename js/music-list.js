@@ -1122,9 +1122,9 @@ let allMusic = [
     src: "keep_you_mine"
   },
   {
-    name: "Quiet Piano",
-    artist: "Unknown",
-    img: "quiet_piano",
-    src: "quiet_piano"
+    name: "Clouds",
+    artist: "Huma-Huma",
+    img: "clouds",
+    src: "clouds"
   },
 ]
