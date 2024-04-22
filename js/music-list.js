@@ -1127,4 +1127,10 @@ let allMusic = [
     img: "clouds",
     src: "clouds"
   },
+  {
+    name: "好想每天都在你左右",
+    artist: "周星星",
+    img: "好想每天都在你左右",
+    src: "好想每天都在你左右"
+  },
 ]
