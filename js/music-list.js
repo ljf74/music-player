@@ -1,4 +1,10 @@
-let allMusic = [ 
+let allMusic = [
+  {
+    name: "Magnetic",
+    artist: "ILLIT",
+    img: "magnetic",
+    src: "magnetic"
+  },
   {
     name: "By Your Side",
     artist: "Jonas Blue",
