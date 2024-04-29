@@ -1,5 +1,11 @@
 let allMusic = [
   {
+    name: "Really Like You",
+    artist: "Gyubin",
+    img: "really_like_you",
+    src: "really_like_you"
+  },
+  {
     name: "Magnetic",
     artist: "ILLIT",
     img: "magnetic",
