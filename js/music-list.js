@@ -1,5 +1,11 @@
 let allMusic = [
   {
+    name: "地球最可爱",
+    artist: "红格格",
+    img: "地球最可爱",
+    src: "地球最可爱"
+  },
+  {
     name: "致你",
     artist: "yihuik苡慧",
     img: "致你",
