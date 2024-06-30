@@ -1,29 +1,5 @@
 let allMusic = [
   {
-    name: "地球最可爱",
-    artist: "红格格",
-    img: "地球最可爱",
-    src: "地球最可爱"
-  },
-  {
-    name: "致你",
-    artist: "yihuik苡慧",
-    img: "致你",
-    src: "致你"
-  },
-  {
-    name: "Really Like You",
-    artist: "Gyubin",
-    img: "really_like_you",
-    src: "really_like_you"
-  },
-  {
-    name: "Magnetic",
-    artist: "ILLIT",
-    img: "magnetic",
-    src: "magnetic"
-  },
-  {
     name: "By Your Side",
     artist: "Jonas Blue",
     img: "by_your_side",
@@ -1156,5 +1132,41 @@ let allMusic = [
     artist: "周星星",
     img: "好想每天都在你左右",
     src: "好想每天都在你左右"
+  },
+  {
+    name: "地球最可爱",
+    artist: "红格格",
+    img: "地球最可爱",
+    src: "地球最可爱"
+  },
+  {
+    name: "致你",
+    artist: "yihuik苡慧",
+    img: "致你",
+    src: "致你"
+  },
+  {
+    name: "Really Like You",
+    artist: "Gyubin",
+    img: "really_like_you",
+    src: "really_like_you"
+  },
+  {
+    name: "Magnetic",
+    artist: "ILLIT",
+    img: "magnetic",
+    src: "magnetic"
+  },
+  {
+    name: "慢慢",
+    artist: "颜人中",
+    img: "慢慢_颜人中",
+    src: "慢慢_颜人中"
+  },
+  {
+    name: "热爱105℃的你",
+    artist: "阿肆",
+    img: "热爱105_阿肆",
+    src: "热爱105_阿肆"
   },
 ]
