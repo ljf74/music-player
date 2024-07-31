@@ -726,8 +726,8 @@ let allMusic = [
     src: "jb_ghost"
   },
   {
-    name: "Why Don't We",
-    artist: "8 Letters",
+    name: "8 Letters",
+    artist: "Why Don't We",
     img: "why_dont_we",
     src: "why_dont_we"
   },
