@@ -1169,4 +1169,10 @@ let allMusic = [
     img: "热爱105_阿肆",
     src: "热爱105_阿肆"
   },
+  {
+    name: "Shots (Broiler Remix)",
+    artist: "Imagine Dragons&Broiler",
+    img: "shots_broiler_remix",
+    src: "shots_broiler_remix"
+  },
 ]
