@@ -24,8 +24,8 @@ window.addEventListener("load", ()=>{
 function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
-  musicImg.src = `https://colddb.netlify.app/images/${allMusic[indexNumb - 1].src}.jpg`;
-  mainAudio.src = `https://colddb.netlify.app/audio/${allMusic[indexNumb - 1].src}.mp3`;
+  musicImg.src = `https://gitlab.com/ljf7/db/-/raw/f28c8b693884e943fa408478af7f98bf72d308ab/images/${allMusic[indexNumb - 1].src}.jpg`;
+  mainAudio.src = `https://gitlab.com/ljf7/db/-/raw/f28c8b693884e943fa408478af7f98bf72d308ab/audio/${allMusic[indexNumb - 1].src}.mp3`;
 }
 //play music function
 function playMusic(){
